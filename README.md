@@ -22,4 +22,4 @@ Dự án thực hiện bài Lab 1 nhằm mục tiêu thiết lập môi trườn
 ### Các bước khởi chạy
 1. Clone repository này về máy local:
    ```bash
-   git clone <URL_REPOSITORY_CUA_BAN>
+   git clone <https://github.com/anhtn2007/lab1>
